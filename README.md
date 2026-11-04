@@ -112,8 +112,11 @@ I build practical business web applications: examination platforms, pharmacy dis
 <img src="https://img.shields.io/badge/PROJECT%2001-LIVE-22C55E?style=flat-square&labelColor=0D1117" alt="Project 01" />
 
 <a href="https://github.com/Bilalrasheed010/EduPrep">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bilalrasheed010&repo=EduPrep&bg_color=0D1117&title_color=61DAFB&icon_color=A78BFA&text_color=C9D1D9&border_color=30363D&show_owner=false" alt="EduPrep repository card" />
+  <img src="https://img.shields.io/badge/EduPrep-Online%20Examination%20Platform-512BD4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="EduPrep repository" />
 </a>
+
+<img src="https://img.shields.io/github/created-at/Bilalrasheed010/EduPrep?style=flat-square&labelColor=0D1117&color=61DAFB&label=created" alt="EduPrep created" />
+<img src="https://img.shields.io/github/last-commit/Bilalrasheed010/EduPrep?style=flat-square&labelColor=0D1117&color=A78BFA&label=last%20commit" alt="EduPrep last commit" />
 
 **Online examination and student practice platform**<br/>
 Question bank by level, subject and topic · timed tests and results · leaderboards · subscriptions with payment verification · certificates
@@ -131,8 +134,11 @@ Question bank by level, subject and topic · timed tests and results · leaderbo
 <img src="https://img.shields.io/badge/PROJECT%2002-ERP-512BD4?style=flat-square&labelColor=0D1117" alt="Project 02" />
 
 <a href="https://github.com/Bilalrasheed010/PharmacyERP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bilalrasheed010&repo=PharmacyERP&bg_color=0D1117&title_color=61DAFB&icon_color=A78BFA&text_color=C9D1D9&border_color=30363D&show_owner=false" alt="PharmacyERP repository card" />
+  <img src="https://img.shields.io/badge/PharmacyERP-Distribution%20ERP-512BD4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="PharmacyERP repository" />
 </a>
+
+<img src="https://img.shields.io/github/created-at/Bilalrasheed010/PharmacyERP?style=flat-square&labelColor=0D1117&color=61DAFB&label=created" alt="PharmacyERP created" />
+<img src="https://img.shields.io/github/last-commit/Bilalrasheed010/PharmacyERP?style=flat-square&labelColor=0D1117&color=A78BFA&label=last%20commit" alt="PharmacyERP last commit" />
 
 **Pharmacy distribution ERP with Admin and Medical Store portals**<br/>
 Products, batches and expiry · purchases, sales and returns · ledgers and trial balance · audit trail and business reports
@@ -149,8 +155,11 @@ Products, batches and expiry · purchases, sales and returns · ledgers and tria
 <img src="https://img.shields.io/badge/PROJECT%2003-LIVE-22C55E?style=flat-square&labelColor=0D1117" alt="Project 03" />
 
 <a href="https://github.com/Bilalrasheed010/Bilal-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bilalrasheed010&repo=Bilal-Portfolio&bg_color=0D1117&title_color=61DAFB&icon_color=A78BFA&text_color=C9D1D9&border_color=30363D&show_owner=false" alt="Bilal Portfolio repository card" />
+  <img src="https://img.shields.io/badge/Bilal%20Portfolio-React%20%2B%20Three.js-512BD4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Bilal Portfolio repository" />
 </a>
+
+<img src="https://img.shields.io/github/created-at/Bilalrasheed010/Bilal-Portfolio?style=flat-square&labelColor=0D1117&color=61DAFB&label=created" alt="Portfolio created" />
+<img src="https://img.shields.io/github/last-commit/Bilalrasheed010/Bilal-Portfolio?style=flat-square&labelColor=0D1117&color=A78BFA&label=last%20commit" alt="Portfolio last commit" />
 
 **Personal developer portfolio with interactive 3D visuals**<br/>
 React frontend with Three.js scenes and scroll animation
@@ -179,22 +188,13 @@ React frontend with Three.js scenes and scroll animation
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:512BD4,100:61DAFB&height=48&section=footer&animation=twinkling" width="100%" alt="" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&color=61DAFB&center=true&vCenter=true&repeat=false&width=480&height=50&lines=05+%2F%2F+GITHUB+ANALYTICS" alt="GitHub analytics" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bilalrasheed010&show_icons=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=A78BFA&text_color=C9D1D9&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalrasheed010&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9" alt="Top languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&color=61DAFB&center=true&vCenter=true&repeat=false&width=480&height=50&lines=05+%2F%2F+GITHUB+ACTIVITY" alt="GitHub activity" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Bilalrasheed010&hide_border=true&background=0D1117&ring=61DAFB&fire=A78BFA&currStreakLabel=61DAFB&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilalrasheed010&bg_color=0D1117&color=61DAFB&line=512BD4&point=FFFFFF&area=true&area_color=512BD4&hide_border=true" alt="GitHub activity graph" width="100%" />
-
-<br/>
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bilalrasheed010/Bilalrasheed010/output/github-contribution-grid-snake-dark.svg" />
