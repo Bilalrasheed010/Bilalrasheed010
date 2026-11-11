@@ -1,376 +1,245 @@
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" width="100%" role="img" aria-label="Muhammad Bilal — ASP.NET MVC / .NET Developer">
-  <defs>
-    <linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#050810"/>
-      <stop offset="50%" stop-color="#0A0F18"/>
-      <stop offset="100%" stop-color="#050810"/>
-    </linearGradient>
-    <linearGradient id="hname" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#61DAFB"/>
-      <stop offset="40%" stop-color="#A78BFA"/>
-      <stop offset="100%" stop-color="#512BD4"/>
-    </linearGradient>
-    <linearGradient id="hline" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#61DAFB" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#61DAFB" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#512BD4" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="hscan" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#61DAFB" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#61DAFB" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#61DAFB" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="orb1">
-      <stop offset="0%" stop-color="#61DAFB" stop-opacity="0.42"/>
-      <stop offset="100%" stop-color="#61DAFB" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="orb2">
-      <stop offset="0%" stop-color="#512BD4" stop-opacity="0.48"/>
-      <stop offset="100%" stop-color="#512BD4" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="vignette">
-      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0.55"/>
-    </radialGradient>
-    <filter id="blur1"><feGaussianBlur stdDeviation="70"/></filter>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E293B" stroke-width="0.5" opacity="0.5"/>
-    </pattern>
-    <pattern id="isogrid" width="80" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 0 40 L 40 0 L 80 40" fill="none" stroke="#1E293B" stroke-width="0.6" opacity="0.35"/>
-    </pattern>
-  </defs>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,50:7AA2FF,100:0B0D12&height=2&section=header" width="100%" alt="" />
 
-  <rect width="1280" height="420" fill="url(#hbg)"/>
-  <rect width="1280" height="420" fill="url(#grid)"/>
-
-  <circle cx="240" cy="200" r="320" fill="url(#orb1)" filter="url(#blur1)">
-    <animate attributeName="cx" values="240;420;240" dur="16s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="200;120;200" dur="12s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1040" cy="180" r="340" fill="url(#orb2)" filter="url(#blur1)">
-    <animate attributeName="cx" values="1040;860;1040" dur="14s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="180;260;180" dur="18s" repeatCount="indefinite"/>
-  </circle>
-
-  <g transform="translate(0, 340)" opacity="0.4">
-    <rect width="1280" height="80" fill="url(#isogrid)"/>
-  </g>
-
-  <g fill="#61DAFB">
-    <circle cx="160" cy="90" r="1.5" opacity="0.7">
-      <animate attributeName="cy" values="90;60;90" dur="7s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="7s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="320" cy="300" r="1.3" opacity="0.6">
-      <animate attributeName="cy" values="300;260;300" dur="9s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.15;0.8;0.15" dur="9s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="900" cy="100" r="1.7" opacity="0.7">
-      <animate attributeName="cy" values="100;65;100" dur="8s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.2;0.85;0.2" dur="8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1120" cy="300" r="1.4" opacity="0.7">
-      <animate attributeName="cy" values="300;265;300" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.2;0.85;0.2" dur="6s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="640" cy="60" r="1.2" opacity="0.6">
-      <animate attributeName="cy" values="60;35;60" dur="10s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="760" cy="340" r="1.5" opacity="0.6">
-      <animate attributeName="cy" values="340;305;340" dur="8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="480" cy="140" r="1.1" opacity="0.5">
-      <animate attributeName="cx" values="480;520;480" dur="11s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <rect x="0" y="0" width="1280" height="4" fill="url(#hscan)" opacity="0.7">
-    <animate attributeName="y" values="0;416;0" dur="10s" repeatCount="indefinite"/>
-  </rect>
-
-  <g stroke="#61DAFB" stroke-width="1.5" fill="none" opacity="0.55">
-    <path d="M 40 60 L 40 40 L 60 40"/>
-    <path d="M 1240 60 L 1240 40 L 1220 40"/>
-    <path d="M 40 360 L 40 380 L 60 380"/>
-    <path d="M 1240 360 L 1240 380 L 1220 380"/>
-  </g>
-
-  <text x="640" y="180" text-anchor="middle" font-family="'Inter','Helvetica Neue',sans-serif" font-size="86" font-weight="800" letter-spacing="-2" fill="url(#hname)">Muhammad Bilal</text>
-
-  <rect x="440" y="210" width="400" height="1.5" rx="1" fill="url(#hline)">
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="3.2s" repeatCount="indefinite"/>
-  </rect>
-
-  <text x="640" y="256" text-anchor="middle" font-family="'JetBrains Mono','Courier New',monospace" font-size="22" font-weight="500" letter-spacing="4" fill="#61DAFB">ASP.NET MVC  ·  .NET DEVELOPER</text>
-
-  <text x="640" y="300" text-anchor="middle" font-family="'Inter',sans-serif" font-size="14" font-weight="400" letter-spacing="3" fill="#94A3B8">BUILDING  BUSINESS-GRADE  WEB  APPLICATIONS</text>
-
-  <rect width="1280" height="420" fill="url(#vignette)" pointer-events="none"/>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D12,45:151A26,100:2A3350&height=320&section=header&text=Muhammad%20Bilal&fontSize=64&fontColor=F0F6FC&fontAlignY=36&desc=ASP.NET%20MVC%20%2F%20.NET%20Developer&descSize=22&descColor=7AA2FF&descAlignY=57&animation=twinkling" alt="Muhammad Bilal - ASP.NET MVC / .NET Developer" width="100%" />
 
 <a href="https://bilal-portfolio-bay.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=61DAFB&center=true&vCenter=true&multiline=false&width=740&height=44&lines=Full-Stack+.NET+Developer+%C2%B7+Karachi%2C+Pakistan;Architecting+role-based+systems+%C2%B7+Reporting+%C2%B7+Ledgers;Exploring+AI%2C+ML+%26+Modern+.NET;Currently+open+to+.NET+%2F+Full-Stack+roles" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3400&pause=1400&color=7AA2FF&center=true&vCenter=true&repeat=true&width=720&height=40&lines=Building+reliable+business+web+applications;ASP.NET+MVC+%C2%B7+C%23+%C2%B7+SQL+Server;Exploring+AI+and+machine+learning" alt="Typing animation" />
 </a>
 
-<p>
-  <img src="https://img.shields.io/badge/KARACHI%2C%20PAKISTAN-0D1117?style=flat-square&logo=googlemaps&logoColor=61DAFB" alt="Karachi, Pakistan" />
-  <img src="https://img.shields.io/badge/WEB%20DEVELOPER-ICMA%20INTERNATIONAL-0D1117?style=flat-square&logo=dotnet&logoColor=A78BFA" alt="Web Developer @ ICMA International" />
-  <img src="https://img.shields.io/badge/OPEN%20TO-.NET%20%2F%20FULL--STACK-0D1117?style=flat-square&logo=checkmarx&logoColor=61DAFB" alt="Open to .NET / Full-Stack roles" />
-</p>
+<br/>
 
-<p>
-  <a href="https://bilal-portfolio-bay.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=61DAFB" alt="Portfolio" /></a>
-  <a href="https://github.com/Bilalrasheed010"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/bilal-rasheed-482788252"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=61DAFB" alt="LinkedIn" /></a>
-  <a href="mailto:bilalrasheed1112@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" /></a>
-</p>
+<sub>I design and build data-driven web applications for real business workflows,<br/>from examination platforms to ERP and management systems.</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-12151C?style=flat-square" alt="Karachi, Pakistan" />
+<img src="https://img.shields.io/badge/Web%20Developer%20%40%20ICMA%20International-12151C?style=flat-square" alt="Web Developer at ICMA International" />
+<img src="https://img.shields.io/badge/Open%20to%20.NET%20and%20full--stack%20roles-12151C?style=flat-square" alt="Open to .NET and full-stack roles" />
+
+<br/><br/>
+
+<a href="https://bilal-portfolio-bay.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-7AA2FF?style=for-the-badge&labelColor=0B0D12&logo=vercel&logoColor=0B0D12" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/bilal-rasheed-482788252"><img src="https://img.shields.io/badge/LINKEDIN-12151C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Bilalrasheed010"><img src="https://img.shields.io/badge/GITHUB-12151C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
----
+<br/>
 
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,50:151A26,100:0B0D12&height=56&section=header&text=A%20B%20O%20U%20T&fontSize=16&fontColor=C9D1D9" width="100%" alt="About" />
 
-I'm a **Full-Stack .NET Developer** with a Bachelor's degree in **Computer Science** from the **University of Sindh**. I currently build and maintain **business-grade web applications** at **ICMA International**, where I focus on role-based access control, relational database design, reporting systems, and ledger modules that support daily operations.
-
-I specialize in **ASP.NET MVC, C#, and SQL Server**, and I'm equally at home across the stack — from Entity Framework data layers to React frontends. My work is grounded in clean architecture, maintainable code, and business logic that solves real problems.
-
-Beyond production applications, I'm deeply interested in **software engineering, AI, machine learning, and modern web technologies**, continuously exploring how to bring intelligence and elegance into the systems I build.
+<br/>
 
 ```csharp
-// ═══════════════════════════════════════════════════════════════════
-//  Muhammad Bilal  ·  Full-Stack .NET Developer
-//  Karachi, Pakistan  ·  @Bilalrasheed010
-// ═══════════════════════════════════════════════════════════════════
-
-public sealed class Developer : FullStackEngineer
+public class MuhammadBilal : SoftwareEngineer
 {
-    public string   Name      => "Muhammad Bilal";
-    public string   Role      => "Web Developer @ ICMA International";
-    public string   Degree    => "BS Computer Science · University of Sindh";
-    public string[] Backend   => { "ASP.NET MVC", "C#", ".NET Framework", "Entity Framework", "REST APIs" };
-    public string[] Frontend  => { "HTML5", "CSS3", "JavaScript", "jQuery", "Bootstrap", "React.js" };
-    public string[] Data      => { "SQL Server", "T-SQL", "Relational Design" };
-    public string   Focus     => "Business systems · Reporting · Ledgers · Role-based access";
-    public string   Exploring => "AI · Machine Learning · Modern .NET";
+    public string Role        => "Web Developer @ ICMA International";
+    public string Education   => "BS Computer Science, University of Sindh";
+    public string[] Primary   => new[] { "ASP.NET MVC", "C#", "SQL Server" };
+    public string[] AlsoUses  => new[] { "Entity Framework", "REST APIs", "jQuery", "Bootstrap", "React" };
+    public string BuildsWith  => "role-based access, relational design, reports and ledgers";
+    public string[] Interests => new[] { "Software engineering", "AI and machine learning", "Modern web technologies" };
+    public string Learning    => "ASP.NET Core";
 }
 ```
 
----
+I hold a **BS in Computer Science** from the University of Sindh and work as a **web developer**, building the web applications and business systems that organisations use every day: portals, examination platforms, ERP systems and data-driven tools. My work is centred on **ASP.NET MVC, C# and SQL Server**, with a focus on clear structure, role-based access and reliable data design.
 
-## Technical Skills
+Beyond my day-to-day work, I'm interested in software engineering practices, **artificial intelligence and machine learning**, and modern web technologies such as React. I'm currently learning **ASP.NET Core**.
 
-<table align="center" width="100%">
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,50:151A26,100:0B0D12&height=56&section=header&text=T%20E%20C%20H%20N%20I%20C%20A%20L%20%20S%20K%20I%20L%20L%20S&fontSize=16&fontColor=C9D1D9" width="100%" alt="Technical skills" />
+
+<br/>
+
+<table>
   <tr>
-    <td align="right" width="130" valign="middle"><b>BACKEND</b></td>
-    <td>
-      <img src="https://cdn.simpleicons.org/csharp/A78BFA" height="26" title="C#" alt="C#" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/dotnet/A78BFA" height="26" title=".NET Framework" alt=".NET Framework" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/nuget/A78BFA" height="26" title="Entity Framework" alt="Entity Framework" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/ASP.NET%20MVC-0D1117?style=flat-square&logo=dotnet&logoColor=A78BFA" alt="ASP.NET MVC" />&nbsp;
-      <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&logo=openapiinitiative&logoColor=A78BFA" alt="REST APIs" />
+    <td width="50%" valign="top">
+      <sub><b>BACKEND</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/ASP.NET%20MVC-12151C?style=flat-square" alt="ASP.NET MVC" />
+      <img src="https://img.shields.io/badge/C%23-12151C?style=flat-square" alt="C#" />
+      <img src="https://img.shields.io/badge/.NET%20Framework-12151C?style=flat-square" alt=".NET Framework" />
+      <img src="https://img.shields.io/badge/Entity%20Framework-12151C?style=flat-square" alt="Entity Framework" />
+      <img src="https://img.shields.io/badge/REST%20APIs-12151C?style=flat-square" alt="REST APIs" />
+      <br/><br/>
+      <sub><b>DATABASE</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/SQL%20Server-12151C?style=flat-square" alt="SQL Server" />
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>FRONTEND</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/HTML-12151C?style=flat-square" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-12151C?style=flat-square" alt="CSS" />
+      <img src="https://img.shields.io/badge/Bootstrap-12151C?style=flat-square" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/JavaScript-12151C?style=flat-square" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/jQuery-12151C?style=flat-square" alt="jQuery" />
+      <img src="https://img.shields.io/badge/React.js-12151C?style=flat-square" alt="React.js" />
+      <br/><br/>
+      <sub><b>TOOLS AND PLATFORMS</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/Git-12151C?style=flat-square" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-12151C?style=flat-square" alt="GitHub" />
+      <img src="https://img.shields.io/badge/IIS-12151C?style=flat-square" alt="IIS" />
+      <img src="https://img.shields.io/badge/Visual%20Studio-12151C?style=flat-square" alt="Visual Studio" />
+      <img src="https://img.shields.io/badge/VS%20Code-12151C?style=flat-square" alt="VS Code" />
     </td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><b>DATABASE</b></td>
-    <td>
-      <img src="https://cdn.simpleicons.org/microsoftsqlserver/A78BFA" height="26" title="SQL Server" alt="SQL Server" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/T--SQL-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=A78BFA" alt="T-SQL" />&nbsp;
-      <img src="https://img.shields.io/badge/Relational%20Design-0D1117?style=flat-square&logo=databricks&logoColor=A78BFA" alt="Relational Design" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><b>FRONTEND</b></td>
-    <td>
-      <img src="https://cdn.simpleicons.org/html5/A78BFA" height="26" title="HTML5" alt="HTML5" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/css3/A78BFA" height="26" title="CSS3" alt="CSS3" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/javascript/A78BFA" height="26" title="JavaScript" alt="JavaScript" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/jquery/A78BFA" height="26" title="jQuery" alt="jQuery" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/bootstrap/A78BFA" height="26" title="Bootstrap" alt="Bootstrap" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/react/A78BFA" height="26" title="React.js" alt="React.js" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><b>TOOLS &amp; INFRA</b></td>
-    <td>
-      <img src="https://cdn.simpleicons.org/git/A78BFA" height="26" title="Git" alt="Git" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/github/A78BFA" height="26" title="GitHub" alt="GitHub" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/visualstudio/A78BFA" height="26" title="Visual Studio" alt="Visual Studio" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/visualstudiocode/A78BFA" height="26" title="VS Code" alt="VS Code" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/IIS-0D1117?style=flat-square&logo=microsoft&logoColor=A78BFA" alt="IIS" />
+    <td colspan="2" align="center">
+      <sub><b>CURRENTLY LEARNING</b> &nbsp;·&nbsp; ASP.NET Core</sub>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-## Professional Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,50:151A26,100:0B0D12&height=56&section=header&text=E%20X%20P%20E%20R%20I%20E%20N%20C%20E&fontSize=16&fontColor=C9D1D9" width="100%" alt="Professional experience" />
 
-### Web Developer — ICMA International
+<br/>
 
-Building and maintaining **enterprise web applications** that power day-to-day business operations — from role-based access systems to reporting and ledger modules.
+<table>
+  <tr>
+    <td width="24%" valign="top">
+      <b>August 2024 – Present</b><br/>
+      <sub>Karachi, Pakistan</sub>
+    </td>
+    <td width="76%" valign="top">
+      <b>Web Developer</b> &nbsp;·&nbsp; ICMA International<br/><br/>
+      Developing and maintaining internal web portals for students, HR and examinations.<br/><br/>
+      <sub>
+      — Build and maintain internal portals with <b>C#, ASP.NET MVC and Entity Framework 6</b><br/>
+      — Design and work with <b>SQL Server</b> databases behind these systems<br/>
+      — Work with <b>REST APIs</b> and deploy applications on <b>IIS</b>
+      </sub>
+    </td>
+  </tr>
+</table>
 
-- Design and develop business web applications using **ASP.NET MVC, C#, and SQL Server**
-- Architect **relational database schemas** and business logic for production-grade systems
-- Build **role-based access control**, reporting modules, and financial ledger systems
-- Deliver maintainable, well-structured code across the full application stack
-- Collaborate on enterprise application delivery from requirement to deployment
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,50:151A26,100:0B0D12&height=56&section=header&text=F%20E%20A%20T%20U%20R%20E%20D%20%20P%20R%20O%20J%20E%20C%20T%20S&fontSize=16&fontColor=C9D1D9" width="100%" alt="Featured projects" />
 
-## Featured Projects
+<br/>
 
-### EduPrep — Online Examination & Learning Management System
+<table>
+  <tr>
+    <td valign="top">
+      <sub><b>01 &nbsp;·&nbsp; ONLINE EXAMINATION AND LEARNING MANAGEMENT SYSTEM</b></sub>
+      <h3><a href="https://github.com/Bilalrasheed010/EduPrep">EduPrep</a></h3>
+      Online examination and student practice platform with a question bank organised by level, subject and topic, timed tests and results, leaderboards, subscriptions with payment verification, and certificates.<br/><br/>
+      <img src="https://img.shields.io/badge/ASP.NET%20MVC-12151C?style=flat-square" alt="ASP.NET MVC" />
+      <img src="https://img.shields.io/badge/C%23-12151C?style=flat-square" alt="C#" />
+      <img src="https://img.shields.io/badge/Entity%20Framework%206-12151C?style=flat-square" alt="Entity Framework 6" />
+      <img src="https://img.shields.io/badge/SQL%20Server-12151C?style=flat-square" alt="SQL Server" />
+      <br/><br/>
+      <a href="https://eduprep.somee.com"><b>Live demo ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/Bilalrasheed010/EduPrep">Source code ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <sub><b>02 &nbsp;·&nbsp; MANUFACTURING AND BUSINESS MANAGEMENT SYSTEM</b></sub>
+      <h3>Majeed Pumps ERP</h3>
+      A manufacturing and business management system built to run the operations of a pump manufacturing business.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <sub><b>03 &nbsp;·&nbsp; TECHNOLOGY COMPANY WEBSITE</b></sub>
+      <h3>Qodvanta</h3>
+      A modern website for a technology company.
+    </td>
+  </tr>
+</table>
 
-A full-featured examination platform for students and institutions — built to deliver structured practice, timed assessments, and verifiable results.
+<br/>
 
-- Question bank organized by **level, subject, and topic**
-- **Timed tests** with instant scoring and detailed results
-- Leaderboards and performance tracking
-- Subscription system with **payment verification**
-- Automated **certificate generation**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>MORE ON GITHUB</b></sub><br/>
+      <b><a href="https://github.com/Bilalrasheed010/PharmacyERP">PharmacyERP</a></b><br/>
+      Pharmacy distribution ERP with Admin and Medical Store portals: products, batches and expiry, purchases, sales and returns, ledgers and reports.<br/>
+      <sub>ASP.NET MVC 5 · C# · Entity Framework 6 · SQL Server</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>MORE ON GITHUB</b></sub><br/>
+      <b><a href="https://github.com/Bilalrasheed010/Bilal-Portfolio">Bilal Portfolio</a></b> &nbsp;·&nbsp; <a href="https://bilal-portfolio-bay.vercel.app">Live ↗</a><br/>
+      Personal developer portfolio with interactive 3D visuals, built with a React front end, Three.js scenes and scroll animation.<br/>
+      <sub>React · Vite · Three.js · GSAP</sub>
+    </td>
+  </tr>
+</table>
 
-**Stack** — `ASP.NET MVC` · `C#` · `Entity Framework 6` · `SQL Server` · `Bootstrap` · `jQuery`
+<br/>
 
-[**Live Demo**](https://eduprep.somee.com) · [**Source Code**](https://github.com/Bilalrasheed010/EduPrep)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,50:151A26,100:0B0D12&height=56&section=header&text=G%20I%20T%20H%20U%20B%20%20S%20T%20A%20T%20I%20S%20T%20I%20C%20S&fontSize=16&fontColor=C9D1D9" width="100%" alt="GitHub statistics" />
 
----
-
-### Majeed Pumps ERP — Manufacturing & Business Management System
-
-An **enterprise resource planning** system engineered for manufacturing operations — unifying inventory, production, sales, and financial reporting into a single cohesive platform.
-
-- Inventory, batch tracking, and production workflow
-- Sales, purchase, and returns processing
-- **Ledger, trial balance, and financial reporting**
-- Role-based access control with audit trail
-- Business intelligence reports for operations
-
-**Stack** — `ASP.NET MVC` · `C#` · `Entity Framework` · `SQL Server` · `Bootstrap`
-
----
-
-### Qodvanta — Modern Technology Company Website
-
-A modern, high-performance website for a technology company — designed with a premium aesthetic, smooth interactions, and a scalable frontend architecture.
-
-- Premium responsive UI design
-- Component-based architecture for scalability
-- Modern animation and interaction layer
-- Optimized for performance and SEO
-
-**Stack** — `React` · `Vite` · `Modern CSS` · `Animation Libraries`
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bilalrasheed010&theme=github_dark" width="100%" alt="GitHub profile summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bilalrasheed010&show_icons=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=A78BFA&text_color=C9D1D9&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalrasheed010&layout=compact&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&langs_count=8" height="180" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bilalrasheed010&hide_border=true&background=0D1117&ring=A78BFA&fire=61DAFB&currStreakLabel=61DAFB&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilalrasheed010&bg_color=0D1117&color=61DAFB&line=A78BFA&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
-</p>
-
----
-
-## Certifications & Learning
-
-- **Google Advanced Data Analytics Professional Certificate** — Google
-- **Google Career Certificates** — Google
-- **Continuous learning** in modern .NET, applied AI, and machine learning
-
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Bilalrasheed010"><img src="https://img.shields.io/badge/GITHUB-Bilalrasheed010-0D1117?style=for-the-badge&logo=github&logoColor=61DAFB" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/bilal-rasheed-482788252"><img src="https://img.shields.io/badge/LINKEDIN-Bilal%20Rasheed-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" /></a>
-  <a href="https://bilal-portfolio-bay.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Site-0D1117?style=for-the-badge&logo=vercel&logoColor=61DAFB" alt="Portfolio" /></a>
-  <a href="mailto:bilalrasheed1112@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" /></a>
-</p>
+<br/>
 
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" width="100%" role="img" aria-label="Let's build something great">
-  <defs>
-    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#050810"/>
-      <stop offset="100%" stop-color="#0A0F18"/>
-    </linearGradient>
-    <radialGradient id="forb1">
-      <stop offset="0%" stop-color="#61DAFB" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#61DAFB" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="forb2">
-      <stop offset="0%" stop-color="#512BD4" stop-opacity="0.42"/>
-      <stop offset="100%" stop-color="#512BD4" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="fline" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#61DAFB" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#A78BFA"/>
-      <stop offset="100%" stop-color="#512BD4" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="fblur"><feGaussianBlur stdDeviation="55"/></filter>
-    <pattern id="fgrid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E293B" stroke-width="0.5" opacity="0.35"/>
-    </pattern>
-  </defs>
+<img src="https://github-readme-stats.vercel.app/api?username=Bilalrasheed010&show_icons=true&hide_border=true&bg_color=0B0D12&title_color=7AA2FF&icon_color=7AA2FF&text_color=C9D1D9&text_bold=false" alt="GitHub statistics" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalrasheed010&layout=compact&langs_count=6&hide_border=true&bg_color=0B0D12&title_color=7AA2FF&text_color=C9D1D9" alt="Most used languages" width="49%" />
 
-  <rect width="1280" height="280" fill="url(#fbg)"/>
-  <rect width="1280" height="280" fill="url(#fgrid)"/>
+<br/><br/>
 
-  <circle cx="320" cy="140" r="220" fill="url(#forb1)" filter="url(#fblur)">
-    <animate attributeName="cx" values="320;460;320" dur="13s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="960" cy="140" r="240" fill="url(#forb2)" filter="url(#fblur)">
-    <animate attributeName="cx" values="960;820;960" dur="15s" repeatCount="indefinite"/>
-  </circle>
+<img src="https://streak-stats.demolab.com/?user=Bilalrasheed010&hide_border=true&background=0B0D12&ring=7AA2FF&fire=7AA2FF&currStreakLabel=7AA2FF&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=6E7681" alt="Contribution streak" />
 
-  <g fill="none" stroke="#61DAFB" stroke-width="0.8" opacity="0.4">
-    <path d="M 0 200 Q 320 160 640 200 T 1280 200">
-      <animate attributeName="d"
-        values="M 0 200 Q 320 160 640 200 T 1280 200;
-                M 0 200 Q 320 240 640 200 T 1280 200;
-                M 0 200 Q 320 160 640 200 T 1280 200"
-        dur="8s" repeatCount="indefinite"/>
-    </path>
-  </g>
-  <g fill="none" stroke="#A78BFA" stroke-width="0.6" opacity="0.35">
-    <path d="M 0 230 Q 320 200 640 230 T 1280 230">
-      <animate attributeName="d"
-        values="M 0 230 Q 320 200 640 230 T 1280 230;
-                M 0 230 Q 320 260 640 230 T 1280 230;
-                M 0 230 Q 320 200 640 230 T 1280 230"
-        dur="10s" repeatCount="indefinite"/>
-    </path>
-  </g>
+<br/><br/>
 
-  <rect x="440" y="100" width="400" height="1.5" fill="url(#fline)">
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="3.5s" repeatCount="indefinite"/>
-  </rect>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilalrasheed010&bg_color=0B0D12&color=8B949E&line=7AA2FF&point=F0F6FC&area=true&area_color=7AA2FF&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%" />
 
-  <text x="640" y="150" text-anchor="middle" font-family="'Inter',sans-serif" font-size="32" font-weight="700" fill="#E2E8F0" letter-spacing="1">Let's Build Something Great</text>
+</div>
 
-  <text x="640" y="186" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13" letter-spacing="4" fill="#64748B">OPEN TO COLLABORATION · OPPORTUNITIES · PROJECTS</text>
+<br/>
 
-  <rect x="560" y="210" width="160" height="1" fill="url(#fline)" opacity="0.6"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,50:151A26,100:0B0D12&height=56&section=header&text=C%20E%20R%20T%20I%20F%20I%20C%20A%20T%20I%20O%20N%20S%20%20%26%20%20L%20E%20A%20R%20N%20I%20N%20G&fontSize=16&fontColor=C9D1D9" width="100%" alt="Certifications and learning" />
 
-  <text x="640" y="245" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" letter-spacing="3" fill="#475569">© 2025  ·  MUHAMMAD  BILAL</text>
-</svg>
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>CERTIFICATIONS</b></sub><br/><br/>
+      <b>Google Advanced Data Analytics</b><br/>
+      <sub>Professional Certificate · Google</sub><br/><br/>
+      <b>Google Career Certificates</b><br/>
+      <sub>Google</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>CURRENTLY LEARNING</b></sub><br/><br/>
+      <b>ASP.NET Core</b><br/>
+      <sub>Moving from .NET Framework to modern .NET</sub><br/><br/>
+      <b>AI and machine learning</b><br/>
+      <sub>Building foundations alongside web development</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,50:151A26,100:0B0D12&height=56&section=header&text=C%20O%20N%20N%20E%20C%20T&fontSize=16&fontColor=C9D1D9" width="100%" alt="Connect with me" />
+
+<br/>
+
+<div align="center">
+
+Hiring for a **.NET or full-stack role**, or need a business web application built?<br/>
+I'd be glad to hear from you.
+
+<br/>
+
+<a href="https://github.com/Bilalrasheed010"><img src="https://img.shields.io/badge/GITHUB-Bilalrasheed010-12151C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/bilal-rasheed-482788252"><img src="https://img.shields.io/badge/LINKEDIN-Bilal%20Rasheed-12151C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://bilal-portfolio-bay.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20site-7AA2FF?style=for-the-badge&labelColor=0B0D12&logo=vercel&logoColor=0B0D12" alt="Portfolio" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3600&pause=1600&color=8B949E&center=true&vCenter=true&repeat=true&width=560&height=32&lines=Thank+you+for+visiting+my+profile;Let's+build+something+reliable+together" alt="Closing message" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A3350,55:151A26,100:0B0D12&height=170&section=footer&animation=twinkling" width="100%" alt="" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,50:7AA2FF,100:0B0D12&height=2&section=footer" width="100%" alt="" />
 
 </div>
