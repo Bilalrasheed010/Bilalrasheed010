@@ -1,26 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:512BD4,100:61DAFB&height=260&section=header&text=Muhammad%20Bilal&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=ASP.NET%20MVC%20%E2%80%A2%20C%23%20%E2%80%A2%20SQL%20Server%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=60" alt="Muhammad Bilal - ASP.NET MVC, C# and SQL Server Full-Stack Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2D333B&height=230&section=header&text=Muhammad%20Bilal&fontSize=54&fontColor=F0F6FC&fontAlignY=40&desc=Full-Stack%20.NET%20Developer&descSize=20&descColor=8B949E&descAlignY=62" alt="Muhammad Bilal - Full-Stack .NET Developer" width="100%" />
 
-<a href="https://bilal-portfolio-bay.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1200&color=61DAFB&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-Stack+.NET+Developer;Building+business+web+applications;Role-based+systems%2C+reports+and+ledgers;Currently+learning+ASP.NET+Core" alt="Typing animation" />
-</a>
+**ASP.NET MVC &nbsp;·&nbsp; C# &nbsp;·&nbsp; SQL Server**
 
-<p>
-  <img src="https://img.shields.io/badge/BASED%20IN-Karachi%2C%20Pakistan-0EA5E9?style=flat-square&labelColor=0D1117" alt="Based in Karachi, Pakistan" />
-  <img src="https://img.shields.io/badge/OPEN%20TO-.NET%20%2F%20Full--Stack%20roles-22C55E?style=flat-square&labelColor=0D1117" alt="Open to .NET and full-stack roles" />
-  <img src="https://komarev.com/ghpvc/?username=Bilalrasheed010&label=PROFILE%20VIEWS&color=512BD4&style=flat-square&labelColor=0D1117" alt="Profile views" />
-</p>
+<sub>Karachi, Pakistan &nbsp;·&nbsp; Open to .NET and full-stack roles</sub>
 
-<p>
-  <a href="https://bilal-portfolio-bay.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-512BD4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/bilal-rasheed-482788252"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:bilalrasheed1112@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<br/>
+
+<a href="https://bilal-portfolio-bay.vercel.app"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/bilal-rasheed-482788252"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:bilalrasheed1112@gmail.com"><img src="https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+<br/>
 
 ## About
 
@@ -40,75 +34,37 @@ I build practical business web applications: **examination platforms, pharmacy d
 
 <table>
   <tr>
-    <td align="center" width="25%" valign="top">💼<br/><b>Role</b><br/>Web Developer<br/><sub>ICMA International</sub></td>
-    <td align="center" width="25%" valign="top">🎓<br/><b>Education</b><br/>BS Computer Science<br/><sub>University of Sindh</sub></td>
-    <td align="center" width="25%" valign="top">🧱<br/><b>Focus</b><br/>Role-based access<br/><sub>SQL Server design · Business reports</sub></td>
-    <td align="center" width="25%" valign="top">📍<br/><b>Location</b><br/>Karachi<br/><sub>Pakistan</sub></td>
+    <td align="center" width="25%" valign="top"><sub>ROLE</sub><br/><b>Web Developer</b><br/><sub>ICMA International</sub></td>
+    <td align="center" width="25%" valign="top"><sub>EDUCATION</sub><br/><b>BS Computer Science</b><br/><sub>University of Sindh</sub></td>
+    <td align="center" width="25%" valign="top"><sub>FOCUS</sub><br/><b>Role-based access</b><br/><sub>SQL Server design · Reports</sub></td>
+    <td align="center" width="25%" valign="top"><sub>LOCATION</sub><br/><b>Karachi</b><br/><sub>Pakistan</sub></td>
   </tr>
 </table>
 
----
+<br/>
 
 ## Tech stack
 
-<table>
-  <tr>
-    <td width="120"><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET MVC" />
-      <img src="https://img.shields.io/badge/.NET%20Framework-5C2D91?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Framework" />
-      <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework" />
-      <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square" alt="REST APIs" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Database</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square" alt="VS Code" />
-    </td>
-  </tr>
-</table>
+| | |
+|:--|:--|
+| **Backend** | ![C#](https://img.shields.io/badge/C%23-21262D?style=flat-square&logo=csharp&logoColor=white) ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-21262D?style=flat-square&logo=dotnet&logoColor=white) ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-21262D?style=flat-square&logo=dotnet&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-21262D?style=flat-square&logo=dotnet&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-21262D?style=flat-square) |
+| **Database** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-21262D?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-21262D?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-21262D?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-21262D?style=flat-square&logo=javascript&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-21262D?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-21262D?style=flat-square&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/React-21262D?style=flat-square&logo=react&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-21262D?style=flat-square&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-21262D?style=flat-square) |
+| **Learning** | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-21262D?style=flat-square&logo=dotnet&logoColor=white) |
 
-**Currently learning:** ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-in%20progress-6E56CF?style=flat-square&logo=dotnet&logoColor=white&labelColor=0D1117)
-
----
+<br/>
 
 ## Featured projects
 
 <table>
   <tr>
     <td>
-      <h3><a href="https://github.com/Bilalrasheed010/EduPrep">EduPrep</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-22C55E?style=flat-square&labelColor=0D1117" alt="Live" /></h3>
+      <h3><a href="https://github.com/Bilalrasheed010/EduPrep">EduPrep</a></h3>
       <b>Online examination and student practice platform</b><br/>
       Question bank by level, subject and topic · timed tests and results · leaderboards · subscriptions with payment verification · certificates<br/><br/>
-      <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET MVC" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/Entity%20Framework%206-68217A?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework 6" />
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /><br/><br/>
-      <img src="https://img.shields.io/github/last-commit/Bilalrasheed010/EduPrep?style=flat-square&labelColor=0D1117&color=A78BFA&label=last%20commit" alt="EduPrep last commit" />
-      <a href="https://eduprep.somee.com"><img src="https://img.shields.io/badge/LIVE%20DEMO-eduprep.somee.com-22C55E?style=flat-square&labelColor=0D1117" alt="EduPrep live demo" /></a>
-      <a href="https://github.com/Bilalrasheed010/EduPrep"><img src="https://img.shields.io/badge/SOURCE-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="EduPrep source code" /></a>
+      <sub><code>ASP.NET MVC</code> &nbsp;<code>C#</code> &nbsp;<code>Entity Framework 6</code> &nbsp;<code>SQL Server</code></sub><br/><br/>
+      <a href="https://eduprep.somee.com"><b>Live demo ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/Bilalrasheed010/EduPrep">Source code ↗</a>
     </td>
   </tr>
   <tr>
@@ -116,46 +72,41 @@ I build practical business web applications: **examination platforms, pharmacy d
       <h3><a href="https://github.com/Bilalrasheed010/PharmacyERP">PharmacyERP</a></h3>
       <b>Pharmacy distribution ERP with Admin and Medical Store portals</b><br/>
       Products, batches and expiry · purchases, sales and returns · ledgers and trial balance · audit trail and business reports<br/><br/>
-      <img src="https://img.shields.io/badge/ASP.NET%20MVC%205-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET MVC 5" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/Entity%20Framework%206-68217A?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework 6" />
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /><br/><br/>
-      <img src="https://img.shields.io/github/last-commit/Bilalrasheed010/PharmacyERP?style=flat-square&labelColor=0D1117&color=A78BFA&label=last%20commit" alt="PharmacyERP last commit" />
-      <a href="https://github.com/Bilalrasheed010/PharmacyERP"><img src="https://img.shields.io/badge/SOURCE-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="PharmacyERP source code" /></a>
+      <sub><code>ASP.NET MVC 5</code> &nbsp;<code>C#</code> &nbsp;<code>Entity Framework 6</code> &nbsp;<code>SQL Server</code></sub><br/><br/>
+      <a href="https://github.com/Bilalrasheed010/PharmacyERP"><b>Source code ↗</b></a>
     </td>
   </tr>
   <tr>
     <td>
-      <h3><a href="https://github.com/Bilalrasheed010/Bilal-Portfolio">Bilal Portfolio</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-22C55E?style=flat-square&labelColor=0D1117" alt="Live" /></h3>
+      <h3><a href="https://github.com/Bilalrasheed010/Bilal-Portfolio">Bilal Portfolio</a></h3>
       <b>Personal developer portfolio with interactive 3D visuals</b><br/>
       React frontend with Three.js scenes and scroll animation<br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" /><br/><br/>
-      <img src="https://img.shields.io/github/last-commit/Bilalrasheed010/Bilal-Portfolio?style=flat-square&labelColor=0D1117&color=A78BFA&label=last%20commit" alt="Portfolio last commit" />
-      <a href="https://bilal-portfolio-bay.vercel.app"><img src="https://img.shields.io/badge/LIVE%20SITE-bilal--portfolio--bay.vercel.app-22C55E?style=flat-square&labelColor=0D1117" alt="Portfolio live site" /></a>
-      <a href="https://github.com/Bilalrasheed010/Bilal-Portfolio"><img src="https://img.shields.io/badge/SOURCE-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Portfolio source code" /></a>
+      <sub><code>React</code> &nbsp;<code>Vite</code> &nbsp;<code>Three.js</code> &nbsp;<code>GSAP</code></sub><br/><br/>
+      <a href="https://bilal-portfolio-bay.vercel.app"><b>Live site ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/Bilalrasheed010/Bilal-Portfolio">Source code ↗</a>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
 ## GitHub activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Bilalrasheed010&hide_border=true&background=0D1117&ring=61DAFB&fire=A78BFA&currStreakLabel=61DAFB&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=Bilalrasheed010&hide_border=true&background=0D1117&ring=8B949E&fire=C9D1D9&currStreakLabel=C9D1D9&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=6E7681" alt="GitHub streak" />
 
-<br/><br/>
+</div>
 
+<!-- Optional: uncomment to show the contribution snake (needs your snake workflow publishing to the "output" branch)
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bilalrasheed010/Bilalrasheed010/output/github-contribution-grid-snake-dark.svg" />
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Bilalrasheed010/Bilalrasheed010/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
-
 </div>
+-->
+
+<br/>
 
 ## Recent activity
 
@@ -163,7 +114,7 @@ I build practical business web applications: **examination platforms, pharmacy d
 _Updates automatically with GitHub Actions._
 <!--END_SECTION:activity-->
 
----
+<br/>
 
 ## Let's work together
 
@@ -171,12 +122,10 @@ Hiring for a **.NET / full-stack** role, or need a business web application buil
 
 <div align="center">
 
-<p>
-  <a href="mailto:bilalrasheed1112@gmail.com"><img src="https://img.shields.io/badge/bilalrasheed1112%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/bilal-rasheed-482788252"><img src="https://img.shields.io/badge/LinkedIn-Bilal%20Rasheed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://bilal-portfolio-bay.vercel.app"><img src="https://img.shields.io/badge/Portfolio-bilal--portfolio--bay.vercel.app-512BD4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</p>
+<a href="mailto:bilalrasheed1112@gmail.com"><img src="https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/bilal-rasheed-482788252"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://bilal-portfolio-bay.vercel.app"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,55:512BD4,100:0D1117&height=120&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D333B,100:0D1117&height=100&section=footer" alt="" width="100%" />
 
 </div>
