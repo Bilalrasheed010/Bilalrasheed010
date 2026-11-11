@@ -1,36 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,50:7AA2FF,100:0B0D12&height=2&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B1A,50:22D3EE,100:050B1A&height=3&section=header" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D12,45:151A26,100:2A3350&height=320&section=header&text=Muhammad%20Bilal&fontSize=64&fontColor=F0F6FC&fontAlignY=36&desc=ASP.NET%20MVC%20%2F%20.NET%20Developer&descSize=22&descColor=7AA2FF&descAlignY=57&animation=twinkling" alt="Muhammad Bilal - ASP.NET MVC / .NET Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B1A,30:0A1F44,65:1D4ED8,100:22D3EE&height=330&section=header&text=Muhammad%20Bilal&fontSize=66&fontColor=FFFFFF&fontAlignY=36&desc=ASP.NET%20MVC%20%2F%20.NET%20Developer&descSize=22&descColor=DCEBFF&descAlignY=58&animation=twinkling" alt="Muhammad Bilal - ASP.NET MVC / .NET Developer" width="100%" />
 
 <a href="https://bilal-portfolio-bay.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3400&pause=1400&color=7AA2FF&center=true&vCenter=true&repeat=true&width=720&height=40&lines=Building+reliable+business+web+applications;ASP.NET+MVC+%C2%B7+C%23+%C2%B7+SQL+Server;Exploring+AI+and+machine+learning" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3400&pause=1300&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=42&lines=Building+reliable+business+web+applications;ASP.NET+MVC+%C2%B7+C%23+%C2%B7+SQL+Server;Designing+data-driven+systems+for+real+workflows;Exploring+AI+and+machine+learning" alt="Typing animation" />
 </a>
 
 <br/>
 
-<sub>I design and build data-driven web applications for real business workflows,<br/>from examination platforms to ERP and management systems.</sub>
+<sub>I engineer web applications and business systems with a focus on clean architecture,<br/>role-based security and dependable data design, from examination platforms to ERP.</sub>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-12151C?style=flat-square" alt="Karachi, Pakistan" />
-<img src="https://img.shields.io/badge/Web%20Developer%20%40%20ICMA%20International-12151C?style=flat-square" alt="Web Developer at ICMA International" />
-<img src="https://img.shields.io/badge/Open%20to%20.NET%20and%20full--stack%20roles-12151C?style=flat-square" alt="Open to .NET and full-stack roles" />
+<img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-0A1F44?style=flat-square" alt="Karachi, Pakistan" />
+<img src="https://img.shields.io/badge/Web%20Developer%20%40%20ICMA%20International-0A1F44?style=flat-square" alt="Web Developer at ICMA International" />
+<img src="https://img.shields.io/badge/Open%20to%20.NET%20and%20full--stack%20roles-0A1F44?style=flat-square" alt="Open to .NET and full-stack roles" />
 
 <br/><br/>
 
-<a href="https://bilal-portfolio-bay.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-7AA2FF?style=for-the-badge&labelColor=0B0D12&logo=vercel&logoColor=0B0D12" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/bilal-rasheed-482788252"><img src="https://img.shields.io/badge/LINKEDIN-12151C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/Bilalrasheed010"><img src="https://img.shields.io/badge/GITHUB-12151C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://bilal-portfolio-bay.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-22D3EE?style=for-the-badge&labelColor=050B1A&logo=vercel&logoColor=050B1A" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/bilal-rasheed-482788252"><img src="https://img.shields.io/badge/LINKEDIN-0A1F44?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
+<a href="https://github.com/Bilalrasheed010"><img src="https://img.shields.io/badge/GITHUB-0A1F44?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B1A,50:2F6BFF,100:050B1A&height=2&section=header" width="100%" alt="" />
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B1A,55:0A1F44,100:2F6BFF&height=120&section=header&text=01%20%2F%20ABOUT&fontSize=26&fontColor=DCEBFF&fontAlignY=42&animation=fadeIn" width="100%" alt="01 About" />
+
+<div align="center">
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,50:151A26,100:0B0D12&height=56&section=header&text=A%20B%20O%20U%20T&fontSize=16&fontColor=C9D1D9" width="100%" alt="About" />
+<b>Computer Science graduate. Web developer. Systems builder.</b>
 
-<br/>
+<br/><br/>
+
+<sub>I hold a <b>BS in Computer Science</b> from the University of Sindh and work as a professional web developer,<br/>building the portals, examination platforms and business systems that organisations rely on every day.<br/>My craft centres on <b>ASP.NET MVC, C# and SQL Server</b>: clear structure, role-based access and well-designed data.</sub>
+
+<br/><br/>
+
+<sub>Beyond daily delivery, I'm drawn to software engineering practice, <b>artificial intelligence and machine learning</b>,<br/>and modern web technology. I'm currently learning <b>ASP.NET Core</b> to take my .NET work further.</sub>
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="25%" valign="top"><sub>ROLE</sub><br/><b>Web Developer</b><br/><sub>ICMA International</sub></td>
+    <td align="center" width="25%" valign="top"><sub>EDUCATION</sub><br/><b>BS Computer Science</b><br/><sub>University of Sindh</sub></td>
+    <td align="center" width="25%" valign="top"><sub>SPECIALTY</sub><br/><b>Business systems</b><br/><sub>ASP.NET MVC · SQL Server</sub></td>
+    <td align="center" width="25%" valign="top"><sub>EXPLORING</sub><br/><b>AI and ML</b><br/><sub>ASP.NET Core</sub></td>
+  </tr>
+</table>
+
+</div>
 
 ```csharp
 public class MuhammadBilal : SoftwareEngineer
@@ -40,18 +67,12 @@ public class MuhammadBilal : SoftwareEngineer
     public string[] Primary   => new[] { "ASP.NET MVC", "C#", "SQL Server" };
     public string[] AlsoUses  => new[] { "Entity Framework", "REST APIs", "jQuery", "Bootstrap", "React" };
     public string BuildsWith  => "role-based access, relational design, reports and ledgers";
-    public string[] Interests => new[] { "Software engineering", "AI and machine learning", "Modern web technologies" };
+    public string[] Interests => new[] { "Software architecture", "AI and machine learning", "Modern web technologies" };
     public string Learning    => "ASP.NET Core";
 }
 ```
 
-I hold a **BS in Computer Science** from the University of Sindh and work as a **web developer**, building the web applications and business systems that organisations use every day: portals, examination platforms, ERP systems and data-driven tools. My work is centred on **ASP.NET MVC, C# and SQL Server**, with a focus on clear structure, role-based access and reliable data design.
-
-Beyond my day-to-day work, I'm interested in software engineering practices, **artificial intelligence and machine learning**, and modern web technologies such as React. I'm currently learning **ASP.NET Core**.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,50:151A26,100:0B0D12&height=56&section=header&text=T%20E%20C%20H%20N%20I%20C%20A%20L%20%20S%20K%20I%20L%20L%20S&fontSize=16&fontColor=C9D1D9" width="100%" alt="Technical skills" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B1A,55:0A1F44,100:2F6BFF&height=120&section=header&text=02%20%2F%20TECHNOLOGY%20ARSENAL&fontSize=26&fontColor=DCEBFF&fontAlignY=42&animation=fadeIn" width="100%" alt="02 Technology arsenal" />
 
 <br/>
 
@@ -59,187 +80,248 @@ Beyond my day-to-day work, I'm interested in software engineering practices, **a
   <tr>
     <td width="50%" valign="top">
       <sub><b>BACKEND</b></sub><br/><br/>
-      <img src="https://img.shields.io/badge/ASP.NET%20MVC-12151C?style=flat-square" alt="ASP.NET MVC" />
-      <img src="https://img.shields.io/badge/C%23-12151C?style=flat-square" alt="C#" />
-      <img src="https://img.shields.io/badge/.NET%20Framework-12151C?style=flat-square" alt=".NET Framework" />
-      <img src="https://img.shields.io/badge/Entity%20Framework-12151C?style=flat-square" alt="Entity Framework" />
-      <img src="https://img.shields.io/badge/REST%20APIs-12151C?style=flat-square" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/C%23-0A1F44?style=flat-square" alt="C#" />
+      <img src="https://img.shields.io/badge/ASP.NET%20MVC-0A1F44?style=flat-square" alt="ASP.NET MVC" />
+      <img src="https://img.shields.io/badge/.NET%20Framework-0A1F44?style=flat-square" alt=".NET Framework" />
+      <img src="https://img.shields.io/badge/Entity%20Framework-0A1F44?style=flat-square" alt="Entity Framework" />
+      <img src="https://img.shields.io/badge/REST%20APIs-0A1F44?style=flat-square" alt="REST APIs" />
       <br/><br/>
       <sub><b>DATABASE</b></sub><br/><br/>
-      <img src="https://img.shields.io/badge/SQL%20Server-12151C?style=flat-square" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/SQL%20Server-0A1F44?style=flat-square" alt="SQL Server" />
     </td>
     <td width="50%" valign="top">
       <sub><b>FRONTEND</b></sub><br/><br/>
-      <img src="https://img.shields.io/badge/HTML-12151C?style=flat-square" alt="HTML" />
-      <img src="https://img.shields.io/badge/CSS-12151C?style=flat-square" alt="CSS" />
-      <img src="https://img.shields.io/badge/Bootstrap-12151C?style=flat-square" alt="Bootstrap" />
-      <img src="https://img.shields.io/badge/JavaScript-12151C?style=flat-square" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/jQuery-12151C?style=flat-square" alt="jQuery" />
-      <img src="https://img.shields.io/badge/React.js-12151C?style=flat-square" alt="React.js" />
-      <br/><br/>
-      <sub><b>TOOLS AND PLATFORMS</b></sub><br/><br/>
-      <img src="https://img.shields.io/badge/Git-12151C?style=flat-square" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-12151C?style=flat-square" alt="GitHub" />
-      <img src="https://img.shields.io/badge/IIS-12151C?style=flat-square" alt="IIS" />
-      <img src="https://img.shields.io/badge/Visual%20Studio-12151C?style=flat-square" alt="Visual Studio" />
-      <img src="https://img.shields.io/badge/VS%20Code-12151C?style=flat-square" alt="VS Code" />
+      <img src="https://img.shields.io/badge/HTML5-0A1F44?style=flat-square" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-0A1F44?style=flat-square" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Bootstrap-0A1F44?style=flat-square" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/JavaScript-0A1F44?style=flat-square" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/jQuery-0A1F44?style=flat-square" alt="jQuery" />
+      <img src="https://img.shields.io/badge/React.js-0A1F44?style=flat-square" alt="React.js" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <sub><b>CURRENTLY LEARNING</b> &nbsp;·&nbsp; ASP.NET Core</sub>
+    <td width="50%" valign="top">
+      <sub><b>TOOLS AND PLATFORMS</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/Git-0A1F44?style=flat-square" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-0A1F44?style=flat-square" alt="GitHub" />
+      <img src="https://img.shields.io/badge/IIS-0A1F44?style=flat-square" alt="IIS" />
+      <img src="https://img.shields.io/badge/Visual%20Studio-0A1F44?style=flat-square" alt="Visual Studio" />
+      <img src="https://img.shields.io/badge/VS%20Code-0A1F44?style=flat-square" alt="VS Code" />
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>CURRENTLY EXPLORING</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/ASP.NET%20Core-1D4ED8?style=flat-square" alt="ASP.NET Core" />
+      <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-1D4ED8?style=flat-square" alt="AI and Machine Learning" />
+      <img src="https://img.shields.io/badge/Data%20Analytics-1D4ED8?style=flat-square" alt="Data Analytics" />
     </td>
   </tr>
 </table>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,50:151A26,100:0B0D12&height=56&section=header&text=E%20X%20P%20E%20R%20I%20E%20N%20C%20E&fontSize=16&fontColor=C9D1D9" width="100%" alt="Professional experience" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B1A,55:0A1F44,100:2F6BFF&height=120&section=header&text=03%20%2F%20EXPERIENCE&fontSize=26&fontColor=DCEBFF&fontAlignY=42&animation=fadeIn" width="100%" alt="03 Experience" />
 
 <br/>
 
 <table>
   <tr>
-    <td width="24%" valign="top">
-      <b>August 2024 – Present</b><br/>
+    <td width="26%" valign="top">
+      <sub>AUGUST 2024 — PRESENT</sub><br/>
+      <b>ICMA International</b><br/>
       <sub>Karachi, Pakistan</sub>
     </td>
-    <td width="76%" valign="top">
-      <b>Web Developer</b> &nbsp;·&nbsp; ICMA International<br/><br/>
-      Developing and maintaining internal web portals for students, HR and examinations.<br/><br/>
+    <td width="74%" valign="top">
+      <b>Web Developer</b><br/><br/>
       <sub>
-      — Build and maintain internal portals with <b>C#, ASP.NET MVC and Entity Framework 6</b><br/>
-      — Design and work with <b>SQL Server</b> databases behind these systems<br/>
-      — Work with <b>REST APIs</b> and deploy applications on <b>IIS</b>
+      Building and maintaining the internal web systems the organisation depends on.<br/><br/>
+      ▸ &nbsp;Internal portals for <b>students, HR and examinations</b><br/>
+      ▸ &nbsp;Examination systems and role-based access<br/>
+      ▸ &nbsp;<b>REST APIs</b> and integrations between systems<br/>
+      ▸ &nbsp;<b>SQL Server</b> database design and optimisation<br/>
+      ▸ &nbsp;Automation of repetitive processes<br/>
+      ▸ &nbsp;Deployment and hosting on <b>IIS</b>
       </sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/C%23-0A1F44?style=flat-square" alt="C#" />
+      <img src="https://img.shields.io/badge/ASP.NET%20MVC-0A1F44?style=flat-square" alt="ASP.NET MVC" />
+      <img src="https://img.shields.io/badge/Entity%20Framework%206-0A1F44?style=flat-square" alt="Entity Framework 6" />
+      <img src="https://img.shields.io/badge/SQL%20Server-0A1F44?style=flat-square" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/IIS-0A1F44?style=flat-square" alt="IIS" />
     </td>
   </tr>
 </table>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,50:151A26,100:0B0D12&height=56&section=header&text=F%20E%20A%20T%20U%20R%20E%20D%20%20P%20R%20O%20J%20E%20C%20T%20S&fontSize=16&fontColor=C9D1D9" width="100%" alt="Featured projects" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B1A,55:0A1F44,100:2F6BFF&height=120&section=header&text=04%20%2F%20FEATURED%20PROJECTS&fontSize=26&fontColor=DCEBFF&fontAlignY=42&animation=fadeIn" width="100%" alt="04 Featured projects" />
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B1A,50:22D3EE,100:050B1A&height=2&section=header" width="100%" alt="" />
 
 <table>
   <tr>
     <td valign="top">
-      <sub><b>01 &nbsp;·&nbsp; ONLINE EXAMINATION AND LEARNING MANAGEMENT SYSTEM</b></sub>
+      <sub><b>PROJECT 01 &nbsp;·&nbsp; ONLINE EXAMINATION AND LEARNING MANAGEMENT SYSTEM</b></sub>
       <h3><a href="https://github.com/Bilalrasheed010/EduPrep">EduPrep</a></h3>
-      Online examination and student practice platform with a question bank organised by level, subject and topic, timed tests and results, leaderboards, subscriptions with payment verification, and certificates.<br/><br/>
-      <img src="https://img.shields.io/badge/ASP.NET%20MVC-12151C?style=flat-square" alt="ASP.NET MVC" />
-      <img src="https://img.shields.io/badge/C%23-12151C?style=flat-square" alt="C#" />
-      <img src="https://img.shields.io/badge/Entity%20Framework%206-12151C?style=flat-square" alt="Entity Framework 6" />
-      <img src="https://img.shields.io/badge/SQL%20Server-12151C?style=flat-square" alt="SQL Server" />
+      An online examination and student practice platform. A question bank organised by level, subject and topic, timed tests with results, leaderboards, subscriptions with payment verification, and certificates.<br/><br/>
+      <img src="https://img.shields.io/badge/ASP.NET%20MVC-0A1F44?style=flat-square" alt="ASP.NET MVC" />
+      <img src="https://img.shields.io/badge/C%23-0A1F44?style=flat-square" alt="C#" />
+      <img src="https://img.shields.io/badge/Entity%20Framework%206-0A1F44?style=flat-square" alt="Entity Framework 6" />
+      <img src="https://img.shields.io/badge/SQL%20Server-0A1F44?style=flat-square" alt="SQL Server" />
       <br/><br/>
       <a href="https://eduprep.somee.com"><b>Live demo ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/Bilalrasheed010/EduPrep">Source code ↗</a>
     </td>
   </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B1A,50:2F6BFF,100:050B1A&height=2&section=header" width="100%" alt="" />
+
+<table>
   <tr>
     <td valign="top">
-      <sub><b>02 &nbsp;·&nbsp; MANUFACTURING AND BUSINESS MANAGEMENT SYSTEM</b></sub>
+      <sub><b>PROJECT 02 &nbsp;·&nbsp; MANUFACTURING AND BUSINESS MANAGEMENT SYSTEM</b></sub>
       <h3>Majeed Pumps ERP</h3>
-      A manufacturing and business management system built to run the operations of a pump manufacturing business.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <sub><b>03 &nbsp;·&nbsp; TECHNOLOGY COMPANY WEBSITE</b></sub>
-      <h3>Qodvanta</h3>
-      A modern website for a technology company.
+      An ERP system for manufacturing and business management.
+      <!-- Add here: technology stack badges, key modules, and a repository or demo link when you are ready to share them -->
     </td>
   </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B1A,50:2F6BFF,100:050B1A&height=2&section=header" width="100%" alt="" />
+
+<table>
+  <tr>
+    <td valign="top">
+      <sub><b>PROJECT 03 &nbsp;·&nbsp; MODERN TECHNOLOGY COMPANY WEBSITE</b></sub>
+      <h3>Qodvanta</h3>
+      A modern website for a technology company.
+      <!-- Add here: technology stack badges, key features, and a live link when you are ready to share them -->
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B1A,50:22D3EE,100:050B1A&height=2&section=header" width="100%" alt="" />
 
 <br/>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub><b>MORE ON GITHUB</b></sub><br/>
+      <sub><b>ALSO ON GITHUB</b></sub><br/>
       <b><a href="https://github.com/Bilalrasheed010/PharmacyERP">PharmacyERP</a></b><br/>
-      Pharmacy distribution ERP with Admin and Medical Store portals: products, batches and expiry, purchases, sales and returns, ledgers and reports.<br/>
+      Pharmacy distribution ERP with Admin and Medical Store portals: products, batches and expiry, purchases, sales and returns, ledgers and business reports.<br/><br/>
       <sub>ASP.NET MVC 5 · C# · Entity Framework 6 · SQL Server</sub>
     </td>
     <td width="50%" valign="top">
-      <sub><b>MORE ON GITHUB</b></sub><br/>
+      <sub><b>ALSO ON GITHUB</b></sub><br/>
       <b><a href="https://github.com/Bilalrasheed010/Bilal-Portfolio">Bilal Portfolio</a></b> &nbsp;·&nbsp; <a href="https://bilal-portfolio-bay.vercel.app">Live ↗</a><br/>
-      Personal developer portfolio with interactive 3D visuals, built with a React front end, Three.js scenes and scroll animation.<br/>
+      Personal developer portfolio with interactive 3D visuals: a React front end with Three.js scenes and scroll animation.<br/><br/>
       <sub>React · Vite · Three.js · GSAP</sub>
     </td>
   </tr>
 </table>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,50:151A26,100:0B0D12&height=56&section=header&text=G%20I%20T%20H%20U%20B%20%20S%20T%20A%20T%20I%20S%20T%20I%20C%20S&fontSize=16&fontColor=C9D1D9" width="100%" alt="GitHub statistics" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B1A,55:0A1F44,100:2F6BFF&height=120&section=header&text=05%20%2F%20GITHUB%20ANALYTICS&fontSize=26&fontColor=DCEBFF&fontAlignY=42&animation=fadeIn" width="100%" alt="05 GitHub analytics" />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bilalrasheed010&show_icons=true&hide_border=true&bg_color=0B0D12&title_color=7AA2FF&icon_color=7AA2FF&text_color=C9D1D9&text_bold=false" alt="GitHub statistics" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalrasheed010&layout=compact&langs_count=6&hide_border=true&bg_color=0B0D12&title_color=7AA2FF&text_color=C9D1D9" alt="Most used languages" width="49%" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bilalrasheed010&show_icons=true&hide_border=false&border_color=1E3A8A&border_radius=12&bg_color=050B1A&title_color=22D3EE&icon_color=2F6BFF&text_color=DCEBFF&text_bold=false" alt="GitHub statistics" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalrasheed010&layout=compact&langs_count=6&hide_border=false&border_color=1E3A8A&border_radius=12&bg_color=050B1A&title_color=22D3EE&text_color=DCEBFF" alt="Most used languages" width="49%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Bilalrasheed010&hide_border=true&background=0B0D12&ring=7AA2FF&fire=7AA2FF&currStreakLabel=7AA2FF&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=6E7681" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=Bilalrasheed010&hide_border=false&stroke=1E3A8A&border_radius=12&background=050B1A&ring=22D3EE&fire=2F6BFF&currStreakLabel=22D3EE&sideLabels=9DB4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B84AD" alt="Contribution streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilalrasheed010&bg_color=0B0D12&color=8B949E&line=7AA2FF&point=F0F6FC&area=true&area_color=7AA2FF&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilalrasheed010&bg_color=050B1A&color=9DB4D8&line=22D3EE&point=FFFFFF&area=true&area_color=2F6BFF&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/2F6BFF/Bilalrasheed010" alt="Contribution heatmap" width="100%" />
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,50:151A26,100:0B0D12&height=56&section=header&text=C%20E%20R%20T%20I%20F%20I%20C%20A%20T%20I%20O%20N%20S%20%20%26%20%20L%20E%20A%20R%20N%20I%20N%20G&fontSize=16&fontColor=C9D1D9" width="100%" alt="Certifications and learning" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B1A,55:0A1F44,100:2F6BFF&height=120&section=header&text=06%20%2F%20EDUCATION%20%26%20CERTIFICATIONS&fontSize=26&fontColor=DCEBFF&fontAlignY=42&animation=fadeIn" width="100%" alt="06 Education and certifications" />
 
 <br/>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub><b>CERTIFICATIONS</b></sub><br/><br/>
-      <b>Google Advanced Data Analytics</b><br/>
-      <sub>Professional Certificate · Google</sub><br/><br/>
-      <b>Google Career Certificates</b><br/>
-      <sub>Google</sub>
+      <sub><b>EDUCATION</b></sub><br/><br/>
+      <b>BS Computer Science</b><br/>
+      University of Sindh, Jamshoro<br/>
+      <sub>2020 — 2024</sub>
     </td>
     <td width="50%" valign="top">
-      <sub><b>CURRENTLY LEARNING</b></sub><br/><br/>
-      <b>ASP.NET Core</b><br/>
-      <sub>Moving from .NET Framework to modern .NET</sub><br/><br/>
-      <b>AI and machine learning</b><br/>
-      <sub>Building foundations alongside web development</sub>
+      <sub><b>CERTIFICATION</b></sub><br/><br/>
+      <b>Google Advanced Data Analytics</b><br/>
+      Professional Certificate<br/>
+      <sub>Google</sub>
     </td>
   </tr>
 </table>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,50:151A26,100:0B0D12&height=56&section=header&text=C%20O%20N%20N%20E%20C%20T&fontSize=16&fontColor=C9D1D9" width="100%" alt="Connect with me" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B1A,55:0A1F44,100:2F6BFF&height=120&section=header&text=07%20%2F%20CURRENT%20FOCUS&fontSize=26&fontColor=DCEBFF&fontAlignY=42&animation=fadeIn" width="100%" alt="07 Current focus and goals" />
 
 <br/>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <sub><b>SOFTWARE ARCHITECTURE</b></sub><br/>
+      Designing systems that stay clear, maintainable and secure as they grow.
+    </td>
+    <td width="33%" valign="top">
+      <sub><b>ADVANCED .NET</b></sub><br/>
+      Moving from .NET Framework toward modern ASP.NET Core development.
+    </td>
+    <td width="33%" valign="top">
+      <sub><b>AI AND MACHINE LEARNING</b></sub><br/>
+      Building foundations and exploring how intelligent features fit into web systems.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <sub><b>DATA-DRIVEN APPLICATIONS</b></sub><br/>
+      Applications built around reliable data, reporting and analytics.
+    </td>
+    <td width="33%" valign="top">
+      <sub><b>MODERN WEB</b></sub><br/>
+      Growing my React.js skills alongside a strong .NET back end.
+    </td>
+    <td width="33%" valign="top">
+      <sub><b>GOAL</b></sub><br/>
+      Contributing to international engineering teams building dependable software.
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B1A,55:0A1F44,100:2F6BFF&height=120&section=header&text=08%20%2F%20CONNECT&fontSize=26&fontColor=DCEBFF&fontAlignY=42&animation=fadeIn" width="100%" alt="08 Connect with me" />
 
 <div align="center">
 
-Hiring for a **.NET or full-stack role**, or need a business web application built?<br/>
-I'd be glad to hear from you.
-
 <br/>
 
-<a href="https://github.com/Bilalrasheed010"><img src="https://img.shields.io/badge/GITHUB-Bilalrasheed010-12151C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/bilal-rasheed-482788252"><img src="https://img.shields.io/badge/LINKEDIN-Bilal%20Rasheed-12151C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://bilal-portfolio-bay.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20site-7AA2FF?style=for-the-badge&labelColor=0B0D12&logo=vercel&logoColor=0B0D12" alt="Portfolio" /></a>
+<b>Hiring for a .NET or full-stack role, or need a business web application built?</b><br/>
+<sub>I'd be glad to hear from you.</sub>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3600&pause=1600&color=8B949E&center=true&vCenter=true&repeat=true&width=560&height=32&lines=Thank+you+for+visiting+my+profile;Let's+build+something+reliable+together" alt="Closing message" />
+<a href="https://github.com/Bilalrasheed010"><img src="https://img.shields.io/badge/GITHUB-Bilalrasheed010-0A1F44?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/bilal-rasheed-482788252"><img src="https://img.shields.io/badge/LINKEDIN-Bilal%20Rasheed-0A1F44?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
+<a href="https://bilal-portfolio-bay.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20site-22D3EE?style=for-the-badge&labelColor=050B1A&logo=vercel&logoColor=050B1A" alt="Portfolio" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A3350,55:151A26,100:0B0D12&height=170&section=footer&animation=twinkling" width="100%" alt="" />
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,50:7AA2FF,100:0B0D12&height=2&section=footer" width="100%" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3600&pause=1600&color=9DB4D8&center=true&vCenter=true&repeat=true&width=620&height=32&lines=Thank+you+for+visiting+my+profile;Let's+build+something+dependable+together" alt="Closing message" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,35:1D4ED8,70:0A1F44,100:050B1A&height=240&section=footer&text=Let's%20build%20what's%20next&fontSize=34&fontColor=FFFFFF&fontAlignY=62&animation=twinkling" width="100%" alt="Let's build what's next" />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B1A,50:22D3EE,100:050B1A&height=3&section=footer" width="100%" alt="" />
 
 </div>
